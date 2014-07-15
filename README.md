@@ -22,7 +22,7 @@ Java application that lets you enter a weighted graph and get:
 
 Java application for playing checkers between two players or one player against the computer.
 
-In the second case, the machine calculates their movements using some heuristics and backtracking. The best move from tree is obtained using a strategy * MIN-MAX * (Minimax) with pruning * ALPHA-BETA *
+In the second case, the machine calculates their movements using some heuristics and backtracking. The best move from tree is obtained using a strategy *MIN-MAX* (Minimax) with *ALPHA-BETA* pruning 
 
 ======================================
 
