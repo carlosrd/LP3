@@ -53,10 +53,3 @@ Aplicación Java que permite jugar a las damas entre 2 jugadores o un jugador co
 
 En el segundo caso, la máquina calcula sus movimientos mediante heurísticas y vuelta atrás. Para obtener la mejor jugada del árbol que se construye, utiliza una estrategia *MIN-MAX* (Minimax) con poda *ALFA-BETA*
 
-=====================================
-
-## Authors
-* Carlos Rodríguez
-
-## Disclaimer
-The software is provided 'as is', without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no ecent shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
